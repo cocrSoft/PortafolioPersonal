@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortafolioPersonal", "PortafolioPersonal\PortafolioPersonal.csproj", "{1BF13270-4089-4542-B3B1-DFD225B94D41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortafolioPersonal.Tests", "PortafolioPersonal.Tests\PortafolioPersonal.Tests.csproj", "{273EE530-DDF1-4E3B-9E79-2EEAAF1E311E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF13270-4089-4542-B3B1-DFD225B94D41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF13270-4089-4542-B3B1-DFD225B94D41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF13270-4089-4542-B3B1-DFD225B94D41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF13270-4089-4542-B3B1-DFD225B94D41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273EE530-DDF1-4E3B-9E79-2EEAAF1E311E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273EE530-DDF1-4E3B-9E79-2EEAAF1E311E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273EE530-DDF1-4E3B-9E79-2EEAAF1E311E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273EE530-DDF1-4E3B-9E79-2EEAAF1E311E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
