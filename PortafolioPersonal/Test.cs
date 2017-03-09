@@ -8,5 +8,6 @@ namespace PortafolioPersonal
     public class Test
     {
         int valor = 26;
+        string nombre = "Cledy";
     }
 }
