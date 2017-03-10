@@ -11,6 +11,7 @@ namespace PortafolioPersonal
         public int EDAD;
         public DateTime FECHAINI;
         public DateTime FECHAFIN;
+        public double RATA;
 
     }
 }
