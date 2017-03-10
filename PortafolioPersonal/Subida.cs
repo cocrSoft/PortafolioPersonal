@@ -10,6 +10,7 @@ namespace PortafolioPersonal
         public String NAME;
         public int EDAD;
         public DateTime FECHAINI;
+        public DateTime FECHAFIN;
 
     }
 }
